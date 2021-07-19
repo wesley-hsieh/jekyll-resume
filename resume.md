@@ -21,7 +21,7 @@ title: "My Awesome Resume"
 
 	    
 ## Education
-###California State University East Bay, Hayward - Computer Science, Bachelor of Science	January 2020 - Present
+### California State University East Bay, Hayward - Computer Science, Bachelor of Science	January 2020 - Present
 -	Relevant Coursework: Data Structures and Algorithms, Website Development
 -	Current GPA: 3.874 
 ### Diablo Valley College, Pleasant Hill - Computer Science, Associate of Science	December 2019
@@ -47,7 +47,7 @@ title: "My Awesome Resume"
 -	Provided quality customer service.
 -	Maintaining product inventory and shelf cleanliness both on the floor and in the back room.
 ## Projects
-###BlackJack (Java, Git, Java Native Socket Library, Java Swing, Object Oriented Design, GitHub)
+### BlackJack (Java, Git, Java Native Socket Library, Java Swing, Object Oriented Design, GitHub)
 -	Architected and designed an online multiplayer Blackjack game utilizing server/client design patterns.
 -	GUI built using Java Swing and server built using Java Native Socket.
 -	Supports 5+ consecutive players, each with live network updates. 
