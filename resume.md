@@ -24,6 +24,7 @@ title: "My Awesome Resume"
 ### California State University East Bay, Hayward - Computer Science, Bachelor of Science	January 2020 - Present
 -	Relevant Coursework: Data Structures and Algorithms, Website Development
 -	Current GPA: 3.874 
+
 ### Diablo Valley College, Pleasant Hill - Computer Science, Associate of Science	December 2019
 -	Relevant Coursework: Program Design & Data Structures, Advanced Java, Advanced C+
 
@@ -42,17 +43,21 @@ title: "My Awesome Resume"
 -	Work closely with Designers to collaborate on and implement new design mocks.
 -	Triage, debug, patch, and deploy bug fixes each sprint.
 -	Participate in a fully agile development process in a scrum of four developers.
+
 ### Target, San Ramon - General Team Member	August 2019 - December 2019
 -	Subject expert of assigned product areas.
 -	Provided quality customer service.
 -	Maintaining product inventory and shelf cleanliness both on the floor and in the back room.
+
 ## Projects
 ### BlackJack (Java, Git, Java Native Socket Library, Java Swing, Object Oriented Design, GitHub)
 -	Architected and designed an online multiplayer Blackjack game utilizing server/client design patterns.
 -	GUI built using Java Swing and server built using Java Native Socket.
 -	Supports 5+ consecutive players, each with live network updates. 
 -	Laid groundwork for future support of multiple lobbies that enable unlimited connections. 
+
 ### Dictionaries and Collections (Python)
 -	Used Python to write a framework for scraping and parsing various text formats into relevant data structures for efficient retrieval, querying, and analysis. 
+
 ### Eclipse GUI Introspection Validator (Java, WindowBuilder/Java Swing, Object Oriented Design Patterns)
 -	Use native Java GUI packages to build a tool to allow dynamic rendering of shapes, texts, colors for graphic design. 
